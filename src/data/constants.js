@@ -90,7 +90,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://img.icons8.com/?size=100&id=38388&format=png&color=000000",
+          "https://static-00.iconduck.com/assets.00/git-gui-icon-1024x1024-4rzs3vi0.png",
       },
       {
         name: "GitHub",
@@ -106,7 +106,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://www.svgrepo.com/show/354202/postman-icon.svg",
       },
       
     ],
@@ -180,7 +180,7 @@ export const projects = [
     date: "Jan 2024 - May 2024",
     description:
       "Constructed an IoT surveillance system with Arduino UNO, NodeMCU, and servo motors, synchronized with the BlynkIoT app to control a mobile bot for detecting unauthorized entries at military borders. Built a web interface using the MERN stack for military personnel to monitor live feeds, adjust system settings, and track threats in real-time. Gained experience integrating IoT hardware, machine learning models, and full-stack web technologies.",
-    image: "https://raw.githubusercontent.com/RajeshR10/Military-Defense-System-Final-Year-Project-/refs/heads/main/MDS/MDS%20Images/MDS%20With%20Surveillance%20Bot.png?token=GHSAT0AAAAAAC4BHENAXVIOJCUDPAFXEM66Z32YIQA",
+    image: "https://raw.githubusercontent.com/Pranavh002/ProjectImages/refs/heads/main/MDS%20With%20Surveillance%20Bot.png",
     tags: ["Arduino", "NodeMCU", "ESP32 Cam", "ML Model", "MERN Stack", "Java", "Git"],
     category: "IoT",
     github: "https://github.com/RajeshR10/Military-Defense-System-Final-Year-Project-",
@@ -192,7 +192,7 @@ export const projects = [
     date: "Mar 2023 - Jun 2023",
     description:
       "Developed a mushroom classification system using Convolutional Neural Networks (CNNs) and transfer learning to classify images into Boletus, Lactarius, and Russula species. Designed a user-friendly interface with HTML, CSS, and JavaScript, enhancing user experience. Implemented Flask for backend operations, managing the deep learning model in Python and ensuring seamless communication between frontend and backend.",
-    image: "https://raw.githubusercontent.com/naanmudhalvan-SI/PBL-NT-GP-14992-1682942903/refs/heads/main/Project%20Document%20Sample%20Report/Mushroom%20Classification%20Webpage.jpg?token=GHSAT0AAAAAAC4I6WPVQ6TZZABM3FFX77RSZ32YFQA",
+    image: "https://raw.githubusercontent.com/Pranavh002/ProjectImages/refs/heads/main/Mushroom%20Classification%20Webpage.jpg",
     tags: ["Deep Learning", "CNN", "Transfer Learning", "Flask", "Python", "HTML", "CSS", "JavaScript", "Git"],
     category: "AI/ML",
     github: "https://github.com/Pranavh002/Mushroom-Classification--AI---Project",
